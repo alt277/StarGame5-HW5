@@ -1,5 +1,5 @@
 package ru.geekbrains.base;
-
+///
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.InputProcessor;
 import com.badlogic.gdx.Screen;
